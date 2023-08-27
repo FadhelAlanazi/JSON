@@ -1,44 +1,5 @@
 
-// JSON Syntax key-values pairs
 {
     "key1":"value1",
     "key2":"value2"
-}
-
-// Data types in JSON
-
-{
-    "name":"Abdullah",     //string
-    "num": 20,            //Number
-    "livesInRiyadh":true,  //Boolean
-    "phoneNumber": NULL   //NULL Type
-}
-
-// Object
-
-{
-    "person":{
-        "name":"Abdullah",
-        "num": 20,
-        "livesInRiyadh":true,
-        "phoneNumber": NULL
-    }
-}
-
-// Array of objects
-{
-    "person":[
-    {
-        "name":"Abdullah",
-        "num": 20,
-        "livesInRiyadh":true,
-        "phoneNumber": NULL
-    },
-    {
-        "name":"Ahmad",
-        "num": 10,
-        "livesInRiyadh":false,
-        "phoneNumber": 055555
-    }
-]
 }
