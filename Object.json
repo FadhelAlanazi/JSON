@@ -1,0 +1,9 @@
+{
+    "person":{
+        "name":"Osama",
+        "salary":15000,
+        "employee": true,
+        "id":null
+    },
+    "date":"03/09/2023"
+}
