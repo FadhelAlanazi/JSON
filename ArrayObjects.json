@@ -1,0 +1,23 @@
+{
+    "person":[
+        {
+        "name":"Osama",
+        "salary":15000,
+        "employee": true,
+        "id":null
+    },
+    {
+        "name":"Ahmad",
+        "salary":10000,
+        "employee": true,
+        "id":1234
+    },
+    {
+        "name":"Nasser",
+        "salary":2000,
+        "employee": false,
+        "id":null
+    }
+],
+    "date":"03/09/2023"
+}
